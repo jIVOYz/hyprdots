@@ -65,9 +65,9 @@ dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 vim                                                    # terminal text editor
 code                                                   # ide text editor
-tmux                                                   # terminal multiplexor
+zellij                                                 # terminal multiplexor
 neovim                                                 # neovim
-gammastep                                              # good for your eyes
+gammastep-wayland-git                                  # good for your eyes
 
 # --------------------------------------------------- // Shell
 eza|zsh                                                # file lister for zsh
