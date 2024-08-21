@@ -64,8 +64,7 @@ kitty                                                  # terminal
 dolphin                                                # kde file manager
 ark                                                    # kde file archiver
 vim                                                    # terminal text editor
-code                                                   # ide text editor
-zellij                                                 # terminal multiplexor
+tmux                                                   # terminal multiplexor
 neovim                                                 # neovim
 gammastep-wayland-git                                  # good for your eyes
 
